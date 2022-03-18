@@ -123,7 +123,7 @@ img {
     position: fixed;
     top: 0;
     right: -100%;
-    background-color: #D8DBE2;
+    background-color: #252525;
     width: 85%;
     height: 100vh;
     padding: .75rem;
@@ -159,7 +159,7 @@ img {
 }
 
 .nav__link:hover {
-  color: #575757;
+  color: #fff;
 }
 
 .nav__logo {
