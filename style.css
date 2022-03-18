@@ -251,7 +251,7 @@ img {
   bottom: 0;
   padding: 1rem;
   background-color: var(--text-color);
-  color: var(--white-color);
+  color: #252525;
   border: 1px solid #fff;
   transition: all 0.5s ease-out;
   transition: all 0.9s ease-out;
